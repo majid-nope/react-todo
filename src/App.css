@@ -1,0 +1,12 @@
+#root,body,html{
+  background: #1e1e1e;
+  height: 100%!important;
+}
+.layout{
+  display:grid;
+
+  grid-template-rows: 1fr 93%;
+  background: rgb(211, 183, 183);
+  height: 100%;
+
+}
